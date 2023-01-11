@@ -1,4 +1,8 @@
-### Hi there 👋
+•	👋 Hi, I’m @Juh-unn, but you can call me Paul.
+•	🧐 I am curious by nature and love solving problems! Specifically with code!
+•	🤓 I’m currently learning Javascript, HTML, and CSS to try and develop a portfolio landing page!
+•	🥳 I enjoy meeting others and figuring out what makes them tick!
+•	😁 I am always eager to meet new people and learn new things! Feel free to reach out!
 
 <!--
 **paulhuii/paulhuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
