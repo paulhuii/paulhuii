@@ -4,8 +4,6 @@
 
 •	🤓 I’m currently a 3rd year computer science student at the Univeristy of Calgary!
 
-• 🌱 I'm currently learning Javascript, HTML, and CSS to try and develop a portfolio landing page!
-
 •	🥳 I enjoy meeting others and figuring out what makes them tick!
 
 •	😁 I'm always eager to meet new people and learn new things! Feel free to reach out!
